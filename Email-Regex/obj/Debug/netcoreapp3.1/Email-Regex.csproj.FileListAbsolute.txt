@@ -1,0 +1,13 @@
+C:\Users\Sandeep\Desktop\CSharp\Email-Regex\Email-Regex\bin\Debug\netcoreapp3.1\Email-Regex.exe
+C:\Users\Sandeep\Desktop\CSharp\Email-Regex\Email-Regex\bin\Debug\netcoreapp3.1\Email-Regex.deps.json
+C:\Users\Sandeep\Desktop\CSharp\Email-Regex\Email-Regex\bin\Debug\netcoreapp3.1\Email-Regex.runtimeconfig.json
+C:\Users\Sandeep\Desktop\CSharp\Email-Regex\Email-Regex\bin\Debug\netcoreapp3.1\Email-Regex.runtimeconfig.dev.json
+C:\Users\Sandeep\Desktop\CSharp\Email-Regex\Email-Regex\bin\Debug\netcoreapp3.1\Email-Regex.dll
+C:\Users\Sandeep\Desktop\CSharp\Email-Regex\Email-Regex\bin\Debug\netcoreapp3.1\Email-Regex.pdb
+C:\Users\Sandeep\Desktop\CSharp\Email-Regex\Email-Regex\obj\Debug\netcoreapp3.1\Email-Regex.csproj.AssemblyReference.cache
+C:\Users\Sandeep\Desktop\CSharp\Email-Regex\Email-Regex\obj\Debug\netcoreapp3.1\Email-Regex.AssemblyInfoInputs.cache
+C:\Users\Sandeep\Desktop\CSharp\Email-Regex\Email-Regex\obj\Debug\netcoreapp3.1\Email-Regex.AssemblyInfo.cs
+C:\Users\Sandeep\Desktop\CSharp\Email-Regex\Email-Regex\obj\Debug\netcoreapp3.1\Email-Regex.csproj.CoreCompileInputs.cache
+C:\Users\Sandeep\Desktop\CSharp\Email-Regex\Email-Regex\obj\Debug\netcoreapp3.1\Email-Regex.dll
+C:\Users\Sandeep\Desktop\CSharp\Email-Regex\Email-Regex\obj\Debug\netcoreapp3.1\Email-Regex.pdb
+C:\Users\Sandeep\Desktop\CSharp\Email-Regex\Email-Regex\obj\Debug\netcoreapp3.1\Email-Regex.genruntimeconfig.cache
